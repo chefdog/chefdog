@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on KeystoneJS, NextJS docker azure setup
+- 🔭 I’m currently working on Angular, OpenAI, Azure setup
 
 <!--
 **chefdog/chefdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
